@@ -1,0 +1,9 @@
+[package]
+name = "td-game"
+version = "0.1.0"
+authors = ["Max Willsey <me@mwillsey.com>"]
+edition = "2018"
+
+[dependencies.bevy]
+version = "0.4"
+features = ["dynamic"]
